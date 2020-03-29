@@ -34,7 +34,7 @@
     ]
   },
   {
-    "name": "Donation Management System",
+    "name": "Donation Apps",
     "description": "Donation Management Apps for GYD",
     "stacks": ["codeigniter", "mysql", "bootstrap css"],
     "url": "-",
