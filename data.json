@@ -188,7 +188,7 @@
     "description": "Management Project Apps for Pembukuanku.",
     "stacks": ["laravel", "mysql", "bootstrap css"],
     "url": "-",
-    "repoUrl": "",
+    "repoUrl": "-",
     "images": [
       "./img/pembukuanku/pembukuanku1.png",
       "./img/pembukuanku/pembukuanku2.png",
