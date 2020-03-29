@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Birdboard",
+    "description": "Birdboard: a minimal Basecamp-like project management app (Laravel App with TDD approach). Tutorial by Jeffrey Way. (Unfinished)",
+    "stacks": ["laravel", "mysql", "tailwind css"],
+    "url": "-",
+    "repoUrl": "https://github.com/hadyandev/birdboard",
+    "images": [
+      "./img/birdboard/birdboard1.png",
+      "./img/birdboard/birdboard2.png",
+      "./img/birdboard/birdboard3.png",
+      "./img/birdboard/birdboard4.png",
+      "./img/birdboard/birdboard5.png",
+      "./img/birdboard/birdboard6.png"
+    ]
+  },
+  {
+    "name": "CIBlog",
+    "description": "Simple CodeIgniter CRUD Apps. Tutorial by Brad Traversy",
+    "stacks": ["codeigniter", "mysql", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "https://github.com/hadyandev/ciblog",
+    "images": [
+      "./img/ciblog/ciblog1.png",
+      "./img/ciblog/ciblog2.png",
+      "./img/ciblog/ciblog3.png",
+      "./img/ciblog/ciblog4.png",
+      "./img/ciblog/ciblog5.png",
+      "./img/ciblog/ciblog6.png",
+      "./img/ciblog/ciblog7.png",
+      "./img/ciblog/ciblog8.png",
+      "./img/ciblog/ciblog9.png",
+      "./img/ciblog/ciblog10.png"
+    ]
+  },
+  {
+    "name": "Donation Management System",
+    "description": "Donation Management Apps for GYD",
+    "stacks": ["codeigniter", "mysql", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "-",
+    "images": [
+      "./img/donation/donation1.png",
+      "./img/donation/donation2.png",
+      "./img/donation/donation3.png",
+      "./img/donation/donation4.png",
+      "./img/donation/donation5.png",
+      "./img/donation/donation6.png",
+      "./img/donation/donation7.png",
+      "./img/donation/donation8.png",
+      "./img/donation/donation9.png",
+      "./img/donation/donation10.png",
+      "./img/donation/donation11.png"
+    ]
+  },
+  {
+    "name": "ElarAPI",
+    "description": "Simple E-Commerce Restful API using Laravel. Tutorial by Sarthak Shrivastava.",
+    "stacks": ["laravel", "mysql", "restful api"],
+    "url": "-",
+    "repoUrl": "https://github.com/hadyandev/elarapi",
+    "images": [
+      "./img/elarapi/elarapi1.png",
+      "./img/elarapi/elarapi2.png",
+      "./img/elarapi/elarapi3.png"
+    ]
+  },
+  {
+    "name": "Laravel Forum",
+    "description": "Laravel Forum Apps built using TDD. Tutorial by Jeffrey Way. (Unfinished).",
+    "stacks": ["laravel", "mysql", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "https://github.com/hadyandev/forum",
+    "images": [
+      "./img/forum/forum1.png",
+      "./img/forum/forum2.png",
+      "./img/forum/forum3.png",
+      "./img/forum/forum4.png",
+      "./img/forum/forum5.png",
+      "./img/forum/forum6.png",
+      "./img/forum/forum7.png",
+      "./img/forum/forum8.png"
+    ]
+  },
+  {
+    "name": "Github Profile",
+    "description": "Github Profile Finder.",
+    "stacks": ["vue", "api", "bootstrap css"],
+    "url": "https://vue-github-profile.netlify.com",
+    "repoUrl": "https://github.com/hadyandev/github-profile",
+    "images": [
+      "./img/github/github1.png",
+      "./img/github/github2.png",
+      "./img/github/github3.png",
+      "./img/github/github4.png"
+    ]
+  },
+  {
+    "name": "Larablog",
+    "description": "Simple Laravel CRUD Apps. Tutorial by Brad Traversy",
+    "stacks": ["laravel", "mysql", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "https://github.com/hadyandev/larablog",
+    "images": [
+      "./img/larablog/larablog1.png",
+      "./img/larablog/larablog2.png",
+      "./img/larablog/larablog3.png",
+      "./img/larablog/larablog4.png",
+      "./img/larablog/larablog5.png",
+      "./img/larablog/larablog6.png",
+      "./img/larablog/larablog7.png",
+      "./img/larablog/larablog8.png",
+      "./img/larablog/larablog9.png"
+    ]
+  },
+  {
+    "name": "Laratodos",
+    "description": "Todo Apps using Laravel. Tutorial by Kati Franz",
+    "stacks": ["laravel", "mysql", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "https://github.com/hadyandev/laratodos",
+    "images": [
+      "./img/laratodos/laratodos1.png",
+      "./img/laratodos/laratodos2.png",
+      "./img/laratodos/laratodos3.png"
+    ]
+  },
+  {
+    "name": "Laratweet",
+    "description": "Twitter Clone using Laravel and React. Tutorial by Ryan Dhungel. (Unfinished)",
+    "stacks": ["laravel", "mysql", "react", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "https://github.com/hadyandev/laratweet",
+    "images": [
+      "./img/laratweet/laratweet1.png",
+      "./img/laratweet/laratweet2.png",
+      "./img/laratweet/laratweet3.png"
+    ]
+  },
+  {
+    "name": "Larticles",
+    "description": "Laravel CRUD Apps with Vue Frontend. Tutorial by Brad Traversy",
+    "stacks": ["laravel", "mysql", "vue", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "https://github.com/hadyandev/larticles",
+    "images": [
+      "./img/larticles/larticles1.png",
+      "./img/larticles/larticles2.png"
+    ]
+  },
+  {
+    "name": "Vue Skills",
+    "description": "The Ultimate Vue 2 Crash Course - Learn by Example by Gary Simon.",
+    "stacks": ["vue"],
+    "url": "https://hadyanvue-skills.netlify.com",
+    "repoUrl": "https://github.com/hadyandev/vue-skills",
+    "images": ["./img/skills/skills1.png"]
+  },
+  {
+    "name": "Qurban Apps",
+    "description": "Qurban Management Apps for GYD.",
+    "stacks": ["laravel", "mysql", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "-",
+    "images": [
+      "./img/qurban/qurban1.png",
+      "./img/qurban/qurban2.png",
+      "./img/qurban/qurban3.png",
+      "./img/qurban/qurban4.png",
+      "./img/qurban/qurban5.png"
+    ]
+  },
+  {
+    "name": "Kantin",
+    "description": "Aplikasi POS Kantin for GYD",
+    "stacks": ["laravel", "mysql", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "-",
+    "images": [
+      "./img/kantin/kantin1.png",
+      "./img/kantin/kantin2.png",
+      "./img/kantin/kantin3.png",
+      "./img/kantin/kantin4.png"
+    ]
+  },
+  {
+    "name": "Management Project",
+    "description": "Management Project Apps for Pembukuanku.",
+    "stacks": ["laravel", "mysql", "bootstrap css"],
+    "url": "-",
+    "repoUrl": "",
+    "images": [
+      "./img/pembukuanku/pembukuanku1.png",
+      "./img/pembukuanku/pembukuanku2.png",
+      "./img/pembukuanku/pembukuanku3.png",
+      "./img/pembukuanku/pembukuanku4.png",
+      "./img/pembukuanku/pembukuanku5.png",
+      "./img/pembukuanku/pembukuanku6.png",
+      "./img/pembukuanku/pembukuanku7.png",
+      "./img/pembukuanku/pembukuanku8.png",
+      "./img/pembukuanku/pembukuanku9.png",
+      "./img/pembukuanku/pembukuanku10.png",
+      "./img/pembukuanku/pembukuanku11.png",
+      "./img/pembukuanku/pembukuanku12.png"
+    ]
+  }
+]
