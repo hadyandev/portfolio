@@ -27,7 +27,7 @@ new Vue({
       })
       .then(data => {
         this.datas = data;
-        console.log(this.datas);
+        // console.log(this.datas);
       });
   }
 });
